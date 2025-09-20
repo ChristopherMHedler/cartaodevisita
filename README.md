@@ -47,6 +47,6 @@ Contato
 
 Email: christophermhedler17@gmail.com
 
-LinkedIn: [linkedin](linkedin.com/in/christopher-hedler-738257301/)
+LinkedIn: [linkedin.com/in/christopher-hedler-738257301/](https://www.linkedin.com/in/christopher-hedler-738257301)
 
 GitHub: [ChristopherMHedler](https://github.com/ChristopherMHedler)
