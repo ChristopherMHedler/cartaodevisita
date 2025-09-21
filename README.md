@@ -43,7 +43,7 @@ Design Responsivo	Adaptabilidade para diferentes dispositivos
 Boas Práticas de código	Legibilidade, modularidade e manutenção
 Como usar / clonar este projeto
 
-Visualizar o Portfólio: [https://christophermhedler.github.io/Curr-culo---Portfolio/](https://christophermhedler.github.io/cartaodevisita)
+Visualizar o Portfólio: [https://christophermhedler.github.io/cartaodevisita/](https://christophermhedler.github.io/cartaodevisita)
 
 Contato
 
